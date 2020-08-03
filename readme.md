@@ -11,3 +11,4 @@ Tour Plan
 Куратор
 
 Александр Ярославцев.
+ https://artem1234561.github.io/tour-plan/
