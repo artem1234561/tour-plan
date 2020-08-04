@@ -1,4 +1,5 @@
-Tour Plan
+Tour Plan https://artem1234561.github.io/tour-plan/
+
 
 Учебный проект для практики на курсе Веб Старт от Glo Academy. Автор курса — Артем Исламов.
 
